@@ -1,0 +1,75 @@
+---
+title: "Rethinking the role and responsibility of Engineering in the Anthropocene"
+subtitle: "Insights from Ethical and Historical Perspectives"
+author: Fabio A. CRUZ SANCHEZ
+date: today
+date-format: long
+format:
+  pdf:
+    documentclass: article
+    classoption: [onecolumn]
+    geometry: [left=2cm,top=1.5cm,right=2cm,bottom=1.5cm]
+    papersize: a4paper
+    toc: false
+    number-sections: false
+    colorlinks: true
+    fontsize: 11pt
+    linkcolor: blue
+    urlcolor: blue
+    link-citations: true
+    #include-in-header: [assets/preamble.tex]
+    #include-before-body: [assets/titlepage.tex]
+    keep-tex: true
+    fontfamily: mathdesign
+    include-in-header: 
+      text: |
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhead[c]{Research proposal}
+        \fancyfoot[L]{MADELHIS: Epistémologie, histoire des sciences et des techniques}
+        \fancyfoot[c]{}        
+        \fancyfoot[R]{\thepage}
+bibliography: [assets/library.bib, assets/OSTRL.bib]
+csl: assets/nature.csl
+subparagraph: yes
+---
+
+\thispagestyle{fancy}
+
+<!-- Anthropoce -->
+Plastic waste contamination [@de-la-torre2021],  climate change [@stoddard2021], biodiversity loss [@hermoso2022] are majors markups of what is recently disscused as the Anthropocene era [@steffen2018; @steffen2011].
+The anthropocene frames the humans not only as biological but as geological force acknowledging the new status of humanity given the different indicators in the natural ecosystems that are impacting the stability of the earth system.
+
+   <!-- Consequence of  Manufacturing   -->
+The globalized mass manufacturing paradigm have played a major role not only as motor for the economic development, but also the transgression of the planetary boundaries [@ONeill2018; @raworth2017].
+The mass manufacturing socio-technical systems is understood as a deep transition.
+Manufacturing systems requires materials as well as human and physical capital to produce goods. 
+This co-evolution remains not to solve recurring issues of social inequality in connection to unequal access to healthcare, energy, water, food, mobility, security, finance, education, and communication.
+   <!-- Explaining -->
+Even if the importance of manufacturing as the heart of an economy has not changed, the way of producing goods and the setup of the location start to change dramatically.
+
+  <!-- Engineering blindness -->
+The circular economy concept entry in the policy [@EC2015], industrial [@EllenMacArthurFoundation2015] and scientific [@nobre2021; @Kirchherr2017; @Schoggl2020] arenas as an umbrella concept, but also as a contested one [@CalistoFriant2020; @rodl2022; @corvellec2021], aiming to change the societal conciousness that the ecological systems have nearly endless capacity to provide resources and adsorb wastes. However,
+**Engineering science needs to integrate that the externalities[@zhen2021] of human activites' impacts on the earth systems since the fuzzy front-end phase of the innovation process.**
+
+
+<!-- My major goal -->
+Since 2014, I have been working on the validation of *distributed recycling for additive manufacturing (DRAM)*[@CruzSanchez2020;@CruzSanchez2017]
+as technological  option for plastic waste recycling.
+Likewise, I have been working on the design of the pertinent closed-loop supply chain [@Santander2020], considering the  applicable sustainability indicators based on the scientific literature an including the 'maker mouvement' approaches (fablabs, tiers lieux, hackspaces) in the equation.
+ 
+Nevertheless, I realize that many questions remains open in the scientific and pedagogical aspects:
+
+- If the technical systems of '*design global, manufacture local'* continue to be democratized, there is a risk of a rebound effect leading to increased waste. How can ethical and historical perspectives help us understand and address this paradox?
+- What political, economic, social, legal, and ethical barriers make it difficult to transition away from a growth-driven economic paradigm?
+- Can peer production contribute to the democratization of both technology and society?
+- What role do engineering and sustainability sciences play in shaping a post-growth economy? and in what extent the engineering schools in France need to include these reflections in their curricula?
+
+
+Certainly, there are more relevant and precise questions from ethical and political perspectives. However, the main idea is to continue learning the key critical thinking to put in perspective the (techno-push) engineering solutions that emerges every day for the understanding of the soio-ecological issues.
+
+
+
+\newpage
+
+## References

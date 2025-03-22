@@ -1,0 +1,58 @@
+---
+lang: fr
+author:
+  - name: Fabio A. CRUZ SANCHEZ
+    affiliation:
+      - name: '**Fabio A. CRUZ SANCHEZ.**'
+        department: Maître de Conférences. UL
+        address: 27 Rue de Pont de Pierre
+        city: Essèy-lès-Nancy
+        country: France
+        postal-code: 54000
+address:
+  - Département de Philosophie
+  - Université de Lorraine
+  - Nancy - France
+subject: "Lettre de Motivation **Master MADHELIS**"
+subject-title: "Objet"
+opening: "Madame, Monsieur"
+closing: "Je vous prie d’agréer, Madame Monsieur, l’expression de mes salutations distinguées."
+
+fontfamily: mathdesign
+# fontfamilyoptions:
+#   - utopia
+#mainfont: "EB Garamond"
+fontsize: 12pt
+csl: assets/nature.csl
+keep-tex: true
+
+format: letter-pdf
+#bibliography: Fabio-biblio.bib
+---
+
+
+
+Actuellement maître de conférences à l’École Nationale Supérieure des Systèmes Industriels et de l’Innovation (ENSGSI) de l’Université de Lorraine, formé en génie mécanique à l’Université Nationale de Colombie, master II en Management de l'Innovation et une thèse de Doctorat en Génie des systèmes industriels. 
+Aujourd’hui, je me permets de vous adresser ma candidature pour intégrer le **Master MADELHIS, mention Epistémologie, Histoire des sciences et des techniques, parcours approches éthiques et politiques des sciences et des techniques** car je ressens la nécessité *d’élargir mon approche de l’ingénierie en y intégrant les sciences humaines et sociales afin d’appréhender plus finement les enjeux sociétaux actuels*.
+
+Mon questionnement porte notamment sur la soutenabilité de nos sociétés contemporaines, marquées par une empreinte écologique croissante, ainsi que sur la justice climatique et les relations Nord-Sud. 
+Je m’interroge également sur les alternatives possibles à un futur fondé exclusivement sur le progrès technologique et une croissance économique illimitée. 
+Je suis convaincu que l’histoire des sciences et des techniques, l’épistémologie et l’éthique constituent des clés essentielles pour repenser ces problématiques.
+
+Dans le cadre de ma thèse de doctorat, j’ai étudié les enjeux du recyclage plastique en lien avec le développement technologique de la fabrication additive (impression 3D). 
+Les défis environnementaux tels que la pollution plastique, le changement climatique et la perte de biodiversité sont les marqueurs de l’Anthropocène, une époque où l’humanité est reconnue comme une force géologique influençant l’équilibre de la Terre. 
+Si des initiatives politiques et scientifiques tentent d’apporter des réponses à ces problématiques (économie circulaire, transitions écologique, énergétique et numérique), il demeure une interrogation fondamentale ***sur le paradigme de la croissance et de la performance***, qui continue d’orienter nos sociétés malgré ses effets délétères sur les limites planétaires. 
+Cette réflexion soulève également la question de la notion de stabilité dans nos systèmes socio-techniques et environnementaux.
+
+Intégrer le Master  **MADELHIS représente pour moi une opportunité de mener un travail réflexif sur le rôle de la formation en ingénierie dans un contexte marqué par l’Anthropocène**. 
+Mon objectif est de développer une approche transdisciplinaire, à la fois en recherche et en pédagogie, afin de mieux comprendre comment l’enseignement de l’ingénierie façonne notre trajectoire sociétale. 
+En tant qu’enseignant-chercheur, il me semble essentiel de renforcer mes compétences pour accompagner nos étudiants dans une prise de conscience critique des enjeux technologiques et socio-écologiques.
+
+Par ailleurs, approfondir ma compréhension des pensées des philosophes tels que *Bruno Latour*, notamment sur l’intégration des entités non humaines dans nos cadres de réflexion, *Jean-Baptiste Fressoz* sur l'histoire de de l’environnement ainsi que des travaux de *Dominique Bourg* sur la post-croissance et la sobriété sociétale, me permettrait de mieux articuler ces questionnements avec mon propre domaine d’expertise. 
+De plus, je souhaite acquérir les outils conceptuels nécessaires pour analyser des initiatives ambitieuses telles que le projet Real PostGrowth (ERC Synergy)[^3], qui explore les alternatives aux modèles économiques dominants.
+
+Je vous remercie par avance pour l’attention que vous porterez à ma candidature. Cette démarche représente pour moi une occasion précieuse de structurer et d’enrichir ma réflexion, tant sur le plan académique que professionnel.
+
+
+
+[^3]: REAL est un projet Synergie du Conseil européen de la recherche (ERC) dirigé par les professeurs Julia Steinberger (UNIL Lausanne), Jason Hickel et Giorgos Kallis (UAB Barcelone), pour la période 2023-2029. Plus de details [https://www.realpostgrowth.eu/](https://www.realpostgrowth.eu/)
